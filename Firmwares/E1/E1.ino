@@ -22,7 +22,7 @@ const int led2 = 12;
 #define dist 26        //12
 
 
-#define BinFile "https://raw.githubusercontent.com/Ze-r000/Sketches/main/C2.bin"
+#define BinFile "GitHub/repo/of/bin/file"
 
 
 String Sketch = {"1.0"};
