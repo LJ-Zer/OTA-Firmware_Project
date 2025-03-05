@@ -1,4 +1,4 @@
-$directory = "C:\Users\Zer'O\Desktop\Final_Codes\TRANSPOSITIONING CODES\TRY_2\E"
+$directory = "directory/of/E/files"
 
 for ($i=1; $i -le 24; $i++) 
 {

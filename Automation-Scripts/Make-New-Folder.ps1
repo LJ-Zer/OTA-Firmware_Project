@@ -1,5 +1,5 @@
-$source = "C:\Users\Zer'O\Desktop\Final_Codes\TRANSPOSITIONING CODES\TRY_2\D"
-$dest = "C:\Users\Zer'O\Desktop\Final_Codes\TRANSPOSITIONING CODES\TRY_2\F"
+$source = "source/of/main/file"
+$dest = "destination/to/move/from/main/file"
 
 for ($i=1; $i -le 24; $i++) 
 {

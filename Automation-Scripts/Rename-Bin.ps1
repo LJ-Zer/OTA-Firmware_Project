@@ -1,6 +1,6 @@
-$sourceFolderPath = "C:\Users\Zer'O\Desktop\Final_Codes\TRANSPOSITIONING CODES\TRY_2\E"
+$sourceFolderPath = "folder/path"
 
-$destinationFolderPath = "C:\Users\Zer'O\Desktop\BIN FILES"
+$destinationFolderPath = "destination/of/bin/files"
 
 for ($i=1; $i -le 24; $i++) 
 {
